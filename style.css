@@ -1,73 +1,18 @@
-body{
-    background: url(img/68409a5b794d39412b6cde4d66779a92.jpg) no-repeat;
-    height: 1000px;
-}
-li{
-    display: inline;
-}
+
 a{
     text-decoration: none;
-    color: black;
-    padding: 10px;
-    margin-left: 250px;
-    font-size: 30px;
-    opacity: 0.7;
-}
-a:hover{
-    background-color: white;
-    transition: 1s;
-}
-.zagolovok{
-    background-color: white;
-    opacity: 0.7;
-    text-align: center;
-    margin-top: 300px;
-    font-size: 100px;
-}
-.comp{
+    font-size: 35px;
+    margin: 55px;
+    background-color: bisque;
     color: white;
-    background-color: black;
-    padding: 8px;
-    font-size: 50px;
-    position: absolute;
-    top: 820px;
-    left: 660px;
 }
-.flower {
-    padding-top: 20%;
-    position: absolute;
-    left: 200px;
-    width: 300px;
-    top: 600px;
+ul li{
+    list-style-type: none;
+    display: inline;
 }
-.flower-two{
-    padding-top: 40%;
+.face{
     position: absolute;
-    left: 200px;
-    width: 300px;
-    top: 600px;
+    top: 50px;
 }
-.flower-three{
-    position: absolute;
-    left: 650px;
-    top: 1000px;
-    width: 300px;
-}
-.flower-for{
-    position: absolute;
-    left: 1100px;
-    width: 300px;
-    top: 910px;
-}
-.flower-five{
-    position: absolute;
-    left: 1100px;
-    width: 300px;
-    top: 1240px;
-    height: 265px;
-}
-
-
-
 
 
